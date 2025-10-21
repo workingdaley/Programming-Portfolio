@@ -153,36 +153,35 @@ def lex():
     
     lexLen = 0
     getNonBlank()
-    match charClass:
-        # Parse identifiers
-        case int(LETTER):
+    # Parse identifiers
+    if charClass == LETTER:
+        addChar()
+        getChar()
+        while (charClass == LETTER or charClass == DIGIT):
             addChar()
             getChar()
-            while (charClass == LETTER or charClass == DIGIT):
-                addChar()
-                getChar()
-            if(isPrint()):
-                nextToken = PRINT
-            else:
-                nextToken = IDENT
-        # Parse integer literals
-        case int(DIGIT):
+        if(isPrint()):
+            nextToken = PRINT
+        else:
+            nextToken = IDENT
+    # Parse integer literals
+    elif charClass == DIGIT:
+        addChar()
+        getChar()
+        while(charClass == DIGIT):
             addChar()
             getChar()
-            while(charClass == DIGIT):
-                addChar()
-                getChar()
-            nextToken = INT_LIT
-        # Parenthesis and operators
-        case int(UNKNOWN):
-            lookup(nextChar)
-            getChar()
-        case '':
-            nextToken = EOF
-            lexeme[0] = 'E'
-            lexeme[1] = 'O'
-            lexeme[2] = 'F'
-            lexeme[3] = None
+        nextToken = INT_LIT
+    # Parenthesis and operators
+    elif charClass == UNKNOWN:
+        lookup(nextChar)
+        getChar()
+    else:
+        nextToken = EOF
+        lexeme[0] = 'E'
+        lexeme[1] = 'O'
+        lexeme[2] = 'F'
+        lexeme[3] = None
     for item in lexeme:
         if item != '':
             strStmt += str(item)
@@ -234,13 +233,14 @@ def stmt():
         lex()
         expValue = expr()
         if (nextToken == SEMI_COLON):
-            print(">>> " + expValue)
+            print(">>> " + str(expValue))
     if (nextToken == SEMI_COLON):
         lex()
     else:
-        error("stmt():missing ';'." + str(nextToken) + str(lexeme))
+        error("stmt():missing ';'.")
 
 def expr():
+    global nextToken
     ret1 = term()
     while (nextToken == ADD_OP or nextToken == SUB_OP):
         token = nextToken
@@ -253,6 +253,7 @@ def expr():
     return ret1
 
 def term():
+    global nextToken
     ret1 = factor()
     while (nextToken == MULT_OP or nextToken == DIV_OP):
         token = nextToken
@@ -266,6 +267,7 @@ def term():
 
 def factor():
 
+    global nextToken
     global expValue
     var = ""
     if (nextToken == IDENT or nextToken == INT_LIT):
@@ -278,8 +280,9 @@ def factor():
         if (token == IDENT):
             if(getVarValue(var) == False):
                 err = "factor() point 3: The identifier " + var + " is not defined"
-                print(lexeme)
                 error(err)
+            else:
+                expValue = getVarValue(var)
         else:
             expValue = int(var)
         lex()
