@@ -1,0 +1,90 @@
+Time Log:
+4/1/12: 4:50am - 5:50am mask as3 study
+4/3/12: 11:00am - 12:00pm getting familiar with energy game
+4/4/12: 10:00am - 11:30am learn the excel game file from Blanca
+4/5/12: 2:30pm - 5:00pm study *.ai importing to Flash
+        8:30pm - 11:30pm study associative array and dictionary in actionscript 3
+4/10/12: 7:00pm - 8:00pm ActionScript 3 fundamentals: Associative arrays, maps, and dictionaries 
+         8:40pm - 11:50pm make the data files for energy game
+        12:30am - 1:00am continue to make the data files for energy game
+4/11/12: 11:30am - 4:40pm first draft of data files
+4/12/12: 1:15am - 2:00am work on combobox and its supporting functions
+         10:50am - 1:00pm study combobox open/close label display - to no avail
+4/13/12: 3:20pm - 5:00pm first crack on slider
+         9:20pm - 4:00am slider bug fixing
+4/14/12: 8:00am - 10:00am study as3 event
+         10:30am - 2:00pm work on slider and energy cube
+         2:30pm - 5:00pm continue to work on energy cube
+4/15/12: 12:00am - 6:00am continue to work on energy cube operation, added efficiency data, sector data
+         9:37am - 2:08pm re-construct the sector data, all sector data in, slider proportional per sector, listed the questions
+         4:22pm - 5:52pm work on the Plan component
+         6:30pm - 7:15pm
+         7:50pm - 9:17pm
+         9:18pm - 10:00pm study as3 mask
+4/16/12: 9:15am - 1:00pm study checkbox in combobox, background in combobox
+         1:00pm - 2:40pm meeting with Dr. Lant and Blanca
+         3:30pm - 5:00pm change based on Steven's icons
+         6:40pm - 11:30pm simplified the EnergySourceView creation; don't show the sources with limit 0; one column has wider slider;
+4/17/12: 2:00pm - 3:00pm try out on scrollpane - to no avail
+         11:00pm - 12:40am energy sector one column with next/prev buttons
+4/18/12: 12:53pm - 3:27pm new cube based on feedback
+         5:00pm - 11:40pm new cube and objectives info
+4/19/12: 12:03pm - 2:00pm budget study
+         4:18pm - 5:00pm budget implementation
+         7:14pm - 8:00pm 
+         10:30pm - 11:14pm
+         11:15pm - 11:44pm oil and ghg study
+4/20/12: 11:25am - 3:24pm ghg and oil implementation; draw curve study
+         6:00pm - 8:00pm File and XML study
+4/21/12: 9:30am - 12:08pm XML structure design; refined oil barrel
+         2:18pm - 3:22pm EnergyCubeTwo implementation
+4/22/12: 8:05pm - 11:47pm Save and Load implementation
+4/23/12: 12:30am - 2:34am save implementation
+         12:30pm - 5:02pm load implementation
+         6:50pm - 9:00pm use private; load implementation;
+         9:30pm - 1:00am EnergyCubeTwo orange color;
+4/24/12: 9:15am - 10:15am meeting with Dr. Lant and Blanca
+         10:30am - 12:57pm dynamically create buttons, combobox titles, game title, and checkboxes
+         3:00pm - 5:00pm private applied to variables, checkboxes
+         6:32pm - 9:06pm cubes split
+         10:40pm - 11:05pm
+4/25/12: 4:24am - 6:45am Objectives info; load and save Objectives;
+         6:45am - 8:09am study TextField truncate and MovieClip scale
+         12:50pm - 2:45pm implement TextField truncate and MovieClip scale for logos
+         6:13pm - 8:10pm budget illustrator and resize
+         9:30pm - 1:05am
+4/27/12: 11:49am - 3:57pm old data implementation
+4/29/12: 4:27am - 6:44am oil barrel illustrator and resize
+         3:15pm - 4:00pm use dark amber color to draw two curves
+4/30/12: 2:55am - 5:38am ghg illustrator and resize
+         12:05pm - 3:07pm budget illustrator and resize (turns gray when out of budget)
+5/2/12:  8:45am - 9:55am oil barrel two-dimentional resize
+         12:00pm - 12:40pm discuss with Dr. Lant
+         12:51pm - 2:20pm fix based on the feedback; blinking
+         4:11pm - 5:00pm fix based on the feedback
+         6:32pm - 8:06pm
+         9:56pm - 10:41pm
+5/3/12:  2:30am - 5:23am 
+         1:20pm - 5:11pm
+         10:00pm - 12:48am
+         2:00am - 2:50am
+5/4/12:  1:26pm - 4:45pm scroll bar implementation; draw goal line
+5/7/12:  6:14pm - 9:33pm historical data display
+5/8/12:  6:39am - 8:45am historical data graph display
+         1:02pm - 2:38pm efficiency price; switch energy min and elec min
+         9:40pm - 10:52pm energy bar
+5/10/12: 1:00pm - 2:20pm whole number display
+5/28/12: 12:42pm - 1:22pm teachers' feedback fix - dynamic slider
+         2:32pm - 3:38pm improve energy bar and recalculate electricity min more simply - data file change;
+5/29/12: 3:45am - 5:17am energy bar improvement;
+         5:55am - 6:58am 
+         2:11pm - 3:35pm rearrange top
+5/30/12: 3:31pm - 5:05pm add yellow triangle sliders
+5/31/12: 11:50am - 1:45pm bar height not using sqrt and heat objective and graph
+         2:56pm - 3:25pm
+6/3/12:  5:48pm - 6:00pm
+         9:30pm - 10:12pm
+6/4/12:  2:37pm - 3:27pm
+3/13/13: 7:15pm - 8:15pm Make the numbers over the graphs on the right hand side a lot bigger; Make everything bold.
+3/14/13: 3:44am - 6:00am Make the numbers showing the price and the capacity of each option you use the sliders on bigger; Make the Yellow sliders bigger, with larger, bolder numbers in them
+

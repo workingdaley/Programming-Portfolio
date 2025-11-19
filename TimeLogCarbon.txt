@@ -1,0 +1,69 @@
+Time Log:
+2/23/12: 9:10pm - 11:40pm getting familiar with Flash
+2/29/12: 12:50pm - 2:00pm getting familiar with Flash
+3/1/12: 6:00pm - 11:40pm getting familiar with Flash
+3/3/12: 3:00pm - 7:00pm step-debug Energy Game code
+3/4/12: 8:00pm - 11:40pm start carbon game
+3/5/12: 2:00pm - 3:00pm
+        4:00pm - 4:30pm carbon game
+3/6/12: 11:30am - 1:30pm carbon game data structures and classes for the first action
+3/7/12: 11:00am - 5:00pm tested basic concept
+3/8/12: 1:00am - 1:30am changed vector calling,
+        10:30am - 2:30pm
+        4:00pm - 5:00pm wrote code to draw points indicator and marshal the data code;
+3/9/12: 12:00am - 2:30am added CarbonActionCategoryView.as and captured some icons 
+         11:30am - 4:50pm research how to resize; labor work to capture icons; research how to use event/delegate;
+3/10/12: 1:50am - 6:00am event/delegate alternative implementation; score fields implementation
+         10:40am - 1:00pm define CarbonConsts.as for those names; implemented points fields
+3/12/12: 10:45am - 5:00pm research on scrollpane, to no avail
+3/13/12: 11:00am - 5:00pm research on Slider customization and make some progress without fully satisfication
+3/14/12: 12:10pm - 5:00pm continue to research on Slider and got some idea
+3/15/12: 3:30am - 4:30am experiment with CarbonSlider concept
+         11:00am - 5:00pm "Flash Training with Paul Trani" and continue to experiment with CarbonSlider concept
+3/16/12: 10:00am - 5:00pm integrate the CarbonSlider class into the Game project
+         8:00pm - 9:00pm added the display of the slider thumb value; 
+         9:30pm - 11:00pm clean-up the resources and adjust slider.x; start to modify CarbonPointsIndicator.as
+3/17/12: 6:00am - 7:00am 
+         12:00pm - 12:50pm
+         4:00pm - 7:00pm bad CarbonPointsIndicator modification
+3/18/12: 9:10am - 9:40am draw 2-pixels rectangle and 1-pixel tick for Points Indicator
+         9:40am - 10:30am debug biofueled cars & trucks, mix in wood in coal plants
+         11:30am - 3:30pm scrollpane implementation - alternative
+         11:00pm - 12:00am read Adobe Flash Professional online help
+3/19/12: 5:00am - 6:00am read Adobe Flash Professional online help
+3/20/12: 9:00am - 10:00am discuss with Dr. Lant and Blanca.
+         10:00am - 11:00am slider width will be proportional per page or section, total score is changed to total carbon points, options remaining tops 100
+3/23/12: 1:30pm - 3:30pm install Adobe Illustrator
+         4:00pm - 5:00pm Flash Professional online help
+3/29/12: 3:11am - 7:00am background shape study, to no avail
+         11:00am - 12:50pm continue background shape study - no longer needed
+         3:00pm - 5:05pm scroll pane automatically adjusted based on the view size; dynamically created static texts
+         10:25pm - 11:00pm adjust positions of text fields
+3/30/12: 9:50am - 11:30am loading images in AS 3 training; flash work cycle training
+         11:40am - 2:20pm experiment with ideas; learn illustrator
+         3:20pm - 5:05pm re-captured all .png files; .ai files do not have any advantage over .png files
+3/31/12: 7:00am - 9:00am change the color of points indicator; add PPU; use Bitmap instead of MovieClip;
+4/2/12: 12:10pm - 1:42pm study mask and Shape; come up with the concept of carbon progressbar 
+        1:43pm - 5:00pm implement the carbon progressbar using mask and shape
+        7:00pm - 7:40pm implement the carbon progressbar by drawing bar and outline
+        11:00pm - 12:05am added total options and options
+4/3/12: 1:30am - 3:00am added Options In Total static text field; Options Remaining will not go negative.
+4/4/12: 3:50pm - 5:00pm update the icons
+        8:35pm - 11:50pm continue to update the icons; use the colors in .ai file
+4/9/12: 12:30pm - 6:00pm update based on feedback
+        9:50pm - 2:30am
+4/10/12: 8:56am - 9:57am
+        - 10.remove "other"
+        - 9. add "Replace Cement"
+        - 8. move current points slightly to the right
+        - 7. center max points on last tic mark
+        - 6. provide a bit more white space for four large boxes at the top
+        - 5. At top of left-hand column, label boxes "Tons of Carbon per unit"
+        - 4. PPU boxes. Align vertically. Expand. "Points per Unit" at the top of this column. 
+        - 3. decrease Improve Insulation limit from 20 to 15
+        - 2. optionsRemaining and optionsUsed
+        - 1. total carbon points bar
+5/19/12: 4:03pm - 6:57pm update based on teachers' feedback and dynamically dragging slide
+6/4/12: 3:30pm - 5:04pm prev/more options implementation
+        8:15pm - 10:00pm
+3/13/13: 2:11pm - 5:12pm Make numbers in the yellow triangles bigger and bolder; Make numbers in the options used and remaining bigger and bolder
