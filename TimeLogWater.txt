@@ -1,0 +1,112 @@
+Time Log:
+5/18/12: 4:00pm - 5:00pm meet with Dr. Lant and Blanca
+6/8/12:  11:03am - 11:35am grid study
+6/29/12: 2:37pm - 3:38pm draft of WaterGame, WaterView, WaterConsts, WaterUtils; made a few symbols
+6/30/12: 2:55am - 4:45am classes WaterDataPriorityItem and WaterData
+6/30/12: 1:35pm - 6:55pm classes WaterdataPositionItem and WaterData
+7/1/12:  5:08pm - 8:00pm Classes WaterViewTitleBar and WaterData
+         8:57pm - 1:45am debug the data
+7/2/12:  9:46am - 11:32am draw sun, adjust border fields for Class WaterViewTitleBar; no round for multiplication Class WaterdataPositionItem
+7/3/12:  10:57am - 11:34am change variable int to Number
+7/6/12:  9:45am - 10:21am study pop up window in Flash
+         10:30am - 11:20am meet with Dr. Lant and Blanca
+7/20/12: 3:05pm - 5:05pm score board table
+7/21/12: 5:00am - 6:30am precipitation button and textfield
+         8:38am - 11:10am score board table
+         1:30pm - 1:53pm
+         4:10pm - 5:44pm study the actionscript programming
+7/22/12: 9:00am - 12:11pm study Manipulating display objects in Display programming
+7/23/12: 2:50am - 4:50am study Display programming
+         11:30am - 1:12pm WaterViewBarrel and WaterViewUse
+7/24/12: 3:00am - 4:24am rotate around center study and rotated rectangle intersection study
+         2:15pm - 5:05pm WaterViewRiverItem and WaterRiver
+         6:21pm - 7:10pm
+7/25/12: 1:15am - 4:30am
+         10:00am - 12:45pm
+         2:25pm - 5:03pm
+         6:09pm - 6:20pm fine tune the locations of WaterViewRiverItem
+         7:12pm - 9:59pm
+7/26/12: 10:00am - 11:00am meet with Dr. Lant
+         2:34pm - 5:02pm feedback fixes
+         6:26pm - 6:46pm
+         11:26pm - 12:40am
+7/27/12: 12:16pm - 12:52pm editable total precipitation
+7/28/12: 1:30am - 1:44am
+7/29/12: 12:00am - 1:44am study about Alert window
+         11:00am - 11:45am
+8/2/12:  3:30pm - 4:51pm context menu and popup window study
+8/3/12:  11:45am - 12:53pm resize the gray background when the swf window resizes
+         4:15pm - 5:00pm WaterViewTrade
+8/6/12:  3:00am - 3:46am
+         3:20pm - 5:00pm 
+         6:09pm - 6:20pm
+8/7/12:  12:19am - 1:57am sort the position items
+         10:40am - 10:58am comboboxes 
+         7:15pm - 7:52pm
+8/8/12:  2:30am - 3:55am
+         6:20am - 7:55am continue water trade
+         10:00am - 11:00am meeting with NSF group
+         11:00am - 12:00pm discuss with Blanca
+8/10/12: 4:12pm - 5:06pm update the data calculation according to the new data file
+         8:13pm - 10:10pm minimum flow requirement
+8/11/12: 12:30am - 12:45am
+         9:10am - 10:40am
+8/14/12: 1:50am - 4:46am water trade handling multiple trading transactions for the same player
+         7:10pm - 9:15pm water trading table
+         11:11pm - 11:57pm
+8/15/12: 9:55am - 2:30pm debug the scroll bar issue
+         3:40pm - 4:37pm fixed the scroll bar issue
+8/21/12: 9:00am - 10:35am discuss with Dr Lant and Blanca
+8/24/12: 7:29pm - 10:15pm water use points bar
+8/25/12: 6:30am - 11:58am WaterViewDam
+         3:12pm - 4:28pm WaterViewUsePoints
+8/26/12: 5:40am - 8:00am drag and drop study
+         9:02am - 10:03am WaterViewDamInfo
+         5:57pm - 6:55pm study passing a function
+         9:35pm - 10:15pm ContextMenu and NativeMenu study
+         10:51pm - 12:37am alias implementation
+8/27/12: 10:45pm - 11:50pm
+         4:55am - 6:16am alias focus in textfield and enter key to add
+8/28/12: 9:30am - 11:00am discuss with Dr. Lant and Blanca about dam storing and releasing water
+         6:05pm - 7:17pm changes based on feedback
+         11:26pm - 3:58am menu study
+9/2/12:  10:52pm - 11:23pm simplebutton as menu study
+9/3/12:  7:55am - 12:57pm WaterMenuItem and WaterManageOptions
+         2:02pm - 7:30pm WaterViewMfr and WaterViewDam in progress
+         9:08pm - 11:27pm studied to build a dam
+9/4/12:  7:05am - 8:00am radio button study
+9/5/12:  2:07am - 7:24am store and release water flow
+         1:35pm - 2:12pm dam water drawing
+         3:15pm - 5:26pm 
+9/11/12: 2:00pm - 3:30pm discuss with Dr Lant and Blanca
+         8:23pm - 9:07pm feedback fixes
+         10:14pm - 10:42pm
+9/12/12: 3:29am - 7:01am
+9/13/12: 7:20pm - 9:09pm increase the dam and reservoir size
+         10:10pm - 11:00pm
+9/14/12: 7:23am - 7:54am WaterViewError in progress
+9/15/12: 4:20am - 8:28am 30 water users' name
+9/18/12: 9:44am - 9:56am use AF column to check buyer's affordability
+         11:00am - 12:00pm discuss with Dr. Lant and Blanca
+         1:21pm - 1:53pm feedback implementation in progress
+         7:17pm - 11:09pm
+9/20/12: 9:27pm - 10:54pm debug the dispatchevent issue; add points limit to build dam
+9/22/12: 8:00am - 11:00am double check the personal points calculation and the occurrences of 20000
+9/24/12: 8:45pm - 11:48pm reset button
+9/25/12: 8:42pm - 11:54pm fix dam points and display withdrawal request.
+9/27/12: 8:00pm - 9:30pm study trade water points calculation
+10/2/12: 9:28pm - 5:05am scoring system
+10/6/12: 12:22pm - 1:07pm study resizable window in actionscript 3
+         6:10pm - 7:10pm 
+         9:48pm - 2:10am 
+10/7/12: 12:50pm - 2:15pm resizable window draft implementation using UIComponent
+         3:00pm - 6:31pm
+         7:00pm - 8:00pm cursor study
+         8:55pm - 10:32pm
+         11:01pm - 2:28am resizing score info window is done except the limit of its size
+10/8/12: 9:34am - 2:33pm debug and fix the mouse dragging limit issue with the scrollpane
+10/13/12: 11:21pm - 2:00am debug the dots above A area
+3/14/13: 6:30am - 7:04am Bold the numbers in the "pipes" coming into and out of the river;
+         9:37am - 12:40pm In the Yellow scoreboard, Make each players use the same color as in the boxes along the river; Make this scoreboard expandable and contactable
+4/9/13:  10:47pm - 11:15pm come up with the fix solution
+4/10/13: 5:23am - 6:46am added None at this time operation for dam store/release water

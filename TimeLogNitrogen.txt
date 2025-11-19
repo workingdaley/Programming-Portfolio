@@ -1,0 +1,50 @@
+Time Log:
+5/1/12: 3:39am - 4:43am data file study
+        3:57pm - 5:06pm bg ui, combo boxes
+        7:44pm - 8:50pm bg ui with scaler; slider
+        10:30pm - 12:48am state texts; slider
+5/2/12: 10:00am - 12:00pm discuss with Blanca about the data file
+5/8/12: 11:00pm - 11:40pm mapMC,
+5/9/12: 3:05pm - 3:42pm wholeMapMC, subMapMC, AS3 functions reading
+        10:35pm - 1:33am whole view data; scrollpane; 
+5/10/12: 6:10pm - 8:13pm blue slider
+5/11/12: 8:45am - 12:10pm purple slider
+         1:30pm - 5:00pm Nitrate bar
+         11:18pm - 12:03am change NitrogenViewBase to static
+5/12/12: 8:06am - 9:47am correct data and change NitrogenViewBase to static
+         5:45pm - 8:00pm costs bar, embed font
+         9:51pm - 12:31am costs bar
+5/13/12: 7:45am - 8:45am read the Nitrogen Game doc
+5/15/12: 2:07am - 5:09am corn
+         2:06pm - 5:11pm hypoxic zone
+5/16/12: 2:53pm - 5:09pm data re-structure
+         7:00pm - 9:10pm sub sections watershed data
+5/17/12: 12:30am - 2:32am sub sections sliders
+         10:30am - 11:45am meet with Dr. Lant and Blanca
+         3:09pm - 5:05pm crop yield and sub sections pink bar
+         7:00pm - 7:50pm sub sections nitrate to gulf bar
+5/18/12: 3:15pm - 3:52pm sub sections slider legend
+5/27/12: 5:46pm - 7:30pm feedback fixes
+6/20/12: 2:57pm - 5:00pm Teachers' feedback fixes
+         7:30pm - 8:30pm 
+6/22/12: 3:40pm - 5:00pm
+6/25/12: 3:24pm - 5:00pm
+6/26/12: 11:24am - 12:35pm
+7/4/12:  1:00pm - 10:00pm research on combobox with dropdown subitem - to no avail
+7/5/12:  1:30am - 3:00am continue the research
+         9:31am - 12:45pm experiment on the combobox-subitem concept
+         3:45pm - 5:00pm
+         6:23pm - 8:14pm give up
+         8:18pm - 10:00pm zone change
+         11:07pm - 12:00am
+7/10/12: 11:32am - 12:03pm added BASE_X and BASE_Y to the NitrogenSubView
+         4:15pm - 5:05pm fine-tune the whole view map
+         7:36pm - 8:46pm 
+7/11/12: 1:38am - 4:42am
+7/31/12: 11:26am - 1:18pm study photoshop path shape
+8/1/12:  2:00am - 3:41am collect the coordinates of wetland shapes
+         10:31am - 11:40am restorable wetlands implementation
+         4:00pm - 5:00pm 
+8/2/12:  12:20am - 4:42am
+8/10/12: 2:30am - 4:55am sub watersheds color match; wetland color & size change 
+3/13/13: 6:06pm - 6:32pm Make the numbers in the triangle sliders bigger and bolder; Larger font on "Crop Yield Reduction"
