@@ -1,0 +1,5 @@
+s = 2 + 3;
+t = 9 - 2;
+print s;
+print t;
+print s * t;
