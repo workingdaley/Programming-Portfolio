@@ -8,7 +8,7 @@ Contact: d.jackson1822@outlook.com | [LinkedIn](https://www.linkedin.com/in/djes
 
 | Project | Language(s) | Description |
 |---|---|---|
-| [TINY Language Interpreter](https://github.com/workingdaley/Programming-Portfolio/tree/31de4ff638184260d22f77ba918de409fee9356f/Python%20Projects/TINY%20Language%20Interpreter) | Python (translated from C++) | A lexical analyzer, recursive descent parser, and interpreter for the TINY language. Handles variable assignment, arithmetic expressions with correct operator precedence, and print statements. Translated from a provided C++ reference implementation, with a full writeup of cross-language debugging challenges included. |
+| [TINY Language Interpreter](./Python%Projects/TINY%Language%Interpreter) | Python (translated from C++) | A lexical analyzer, recursive descent parser, and interpreter for the TINY language. Handles variable assignment, arithmetic expressions with correct operator precedence, and print statements. Translated from a provided C++ reference implementation, with a full writeup of cross-language debugging challenges included. |
 | [Time Log Parser](https://github.com/workingdaley/Programming-Portfolio/tree/31de4ff638184260d22f77ba918de409fee9356f/Python%20Projects/Time%20Log%20Parser) | Python | Parses time log files to calculate total elapsed time across one or more logged time periods, converting between 12-hour and 24-hour time and correctly handling day rollover. |
 | [Word Counter](https://github.com/workingdaley/Programming-Portfolio/tree/31de4ff638184260d22f77ba918de409fee9356f/Python%20Projects/Word%20Counter) | Python | Counts word frequency in a text file and prints results sorted from most to least frequent, using a dictionary-based approach. |
 
